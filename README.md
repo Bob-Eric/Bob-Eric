@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-bob-erics-projects.vercel.app/api?username=Bob-Eric&show_icons=true&theme=tokyonight" />
-  <img height=200 align="center" src="https://github-readme-stats-bob-erics-projects.vercel.app/api/top-langs/?username=Bob-Eric&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats-bob-erics-projects.vercel.app/api/top-langs/?username=Bob-Eric&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
 </div>
