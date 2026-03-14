@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ## About Me 👨‍💻
 
-I am a master's student at Tianjin University, conducting research at the [TJU Aerial Robotics](https://github.com/TJU-Aerial-Robotics) Laboratory. 
-
 My academic pursuits and passion lie in Robotics, Machine Learning, and Virtual Simulation. 
 
 I am constantly exploring the intersection of these fields to drive innovative solutions and advance technological boundaries.
